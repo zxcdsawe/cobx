@@ -93,7 +93,7 @@ generate_config() {
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls"
+
                 ],
                 "metadataOnly":false
             }
@@ -120,7 +120,7 @@ generate_config() {
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls"
+
                 ],
                 "metadataOnly":false
             }
@@ -147,7 +147,7 @@ generate_config() {
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls"
+
                 ],
                 "metadataOnly":false
             }
@@ -175,7 +175,7 @@ generate_config() {
                 "enabled":true,
                 "destOverride":[
                     "http",
-                    "tls"
+
                 ],
                 "metadataOnly":false
             }
